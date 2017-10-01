@@ -1,7 +1,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>爱你么么哒</title>
+	<title>陈婷婷傻逼</title>
 	<style>
 	.love{
 		position: relative;
@@ -66,7 +66,7 @@
 		<div class="lf-love"></div>
 		<div class="rgt-love"></div>
 		<div class="btm-love"></div>
-		<h1>陈婷婷love</h1>
+		<h1>陈婷婷shabi</h1>
 	</div>
 	<script>
 		alert("陈婷婷傻逼");
